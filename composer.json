@@ -1,0 +1,16 @@
+{
+    "name": "1º Projeto Php Orientação a Objetos",
+    "authors": [
+        {
+            "name": "Matheus Gomes",
+            "email": "zuza-cs@hotmail.com"
+        }
+    ],
+    "mininum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "src\\app\\classes\\": "src/app/classes/",
+            "tests\\": "tests/"
+        }
+    }
+}
